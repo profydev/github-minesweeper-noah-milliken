@@ -1,5 +1,7 @@
 {
   "commands": [
-    "flag A1"
+    "flag A1 ",
+    "flag A2",
+    "flag A3"
   ]
 }
